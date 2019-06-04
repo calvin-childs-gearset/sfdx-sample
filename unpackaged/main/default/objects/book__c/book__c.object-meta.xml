@@ -61,12 +61,12 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>Book</label>
+    <label>book</label>
     <nameField>
-        <label>Book Name</label>
+        <label>book Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Books</pluralLabel>
+    <pluralLabel>books</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
