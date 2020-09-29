@@ -860,4 +860,7 @@
     <layoutAssignments>
         <layout>calvinTestObject1__c-calvinTestObject1 Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>calvinTestObject2__c-calvinTestObject2 Layout</layout>
+    </layoutAssignments>
 </Profile>
