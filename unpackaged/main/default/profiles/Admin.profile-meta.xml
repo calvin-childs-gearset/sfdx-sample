@@ -1842,6 +1842,9 @@
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>calvinTestObject1__c-calvinTestObject1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>sdfgsdfg__c-sdfgsdfg Layout</layout>
     </layoutAssignments>
     <recordTypeVisibilities>
